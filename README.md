@@ -1,1 +1,1 @@
-# garfield
+<!-- This is a demo page for practice coding/ programming. -->
